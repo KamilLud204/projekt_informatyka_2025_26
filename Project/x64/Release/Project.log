@@ -1,0 +1,22 @@
+﻿  Game.cpp
+  main.cpp
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,51): warning C4244:         with
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,51): warning C4244:         [
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,51): warning C4244:             T=unsigned int
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,51): warning C4244:         ]
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,31): warning C4244:         with
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,31): warning C4244:         [
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,31): warning C4244:             T=unsigned int
+C:\Users\ludwi\OneDrive\Pulpit\1\Project\main.cpp(12,31): warning C4244:         ]
+  Menu.cpp
+  Paletka.cpp
+  Pilka.cpp
+  Stone.cpp
+  Trwa generowanie kodu
+  228 of 228 functions (100.0%) were compiled.
+    227 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project.vcxproj -> C:\Users\ludwi\OneDrive\Pulpit\1\x64\Release\Project.exe
